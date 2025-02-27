@@ -10,3 +10,4 @@ The server can reach gateway
 Client can reach server and vice versa
 Gateway can reach internet
 Client and server can reach internet
+![](https://raw.githubusercontent.com/aimarket/CSE468_project01/refs/heads/main/chrome_qdwNCS0yaM.png)
